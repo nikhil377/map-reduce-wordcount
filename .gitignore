@@ -1,0 +1,7 @@
+# ignore all output files
+output/*
+
+# don't ignore keep files
+!output/.keep
+
+node_modules
